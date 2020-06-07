@@ -1,7 +1,7 @@
 Dependencies
 ----------
 **All platforms:**\
-[Python 3.5.3 or higher](https://www.python.org/downloads/)\
+[Python 3.5.3 or higher](https://www.python.org/downloads/)
 
 **Linux/macOS:**\
 [lolcat](https://github.com/busyloop/lolcat)
